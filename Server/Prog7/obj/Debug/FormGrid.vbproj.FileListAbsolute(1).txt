@@ -1,0 +1,10 @@
+J:\Windowprogramming\Prog7\Prog7\bin\Debug\FormGrid.dll.dll.config
+J:\Windowprogramming\Prog7\Prog7\bin\Debug\FormGrid.dll.dll
+J:\Windowprogramming\Prog7\Prog7\bin\Debug\FormGrid.dll.pdb
+J:\Windowprogramming\Prog7\Prog7\bin\Debug\FormGrid.dll.xml
+J:\Windowprogramming\Prog7\Prog7\obj\Debug\UWPCS3340.FormGridClass.resources
+J:\Windowprogramming\Prog7\Prog7\obj\Debug\UWPCS3340.Resources.resources
+J:\Windowprogramming\Prog7\Prog7\obj\Debug\FormGrid.vbproj.GenerateResource.Cache
+J:\Windowprogramming\Prog7\Prog7\obj\Debug\FormGrid.dll.dll
+J:\Windowprogramming\Prog7\Prog7\obj\Debug\FormGrid.dll.xml
+J:\Windowprogramming\Prog7\Prog7\obj\Debug\FormGrid.dll.pdb
